@@ -18,5 +18,5 @@ Task 5: Perform 'Exploratory Data Analysis' on Dataset 'Indian Premier League'
 Task 6: Prediction using Decision Tree Algorithm
 Objective: Create the Decision Tree classifier and visualize it graphically.
 
-Task7:  Stock Market Prediction using Numerical Analysis
+Task 7: Stock Market Prediction using Numerical Analysis
 Objective: Create a model for stock price/performance prediction using numerical analysis of historical stock prices.
